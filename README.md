@@ -1,0 +1,2 @@
+
+This JavaScript code implements the basic functionality of a bank app. It stores data for multiple user accounts (including their movements, interest rates, and PINs), creates usernames based on the account owner's name, and displays the user's movements (deposits/withdrawals) in the app. The app has buttons for user login, transfers, loans, account closure, and sorting. It also displays various account details like balance, summary, and movements.
